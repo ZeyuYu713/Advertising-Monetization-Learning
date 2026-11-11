@@ -36,9 +36,9 @@
 
 在简化的按千次曝光计费场景下：
 
-$
+$$
 \text{Revenue}=\frac{\text{Billable Impressions}}{1000}\times \text{Realized CPM}
-$
+$$
 
 **示例（虚构）**：某类广告当月有 80,000,000 次可计费展示，实际平均 CPM 为 12 美元，那么收入 = 80,000,000 / 1000 × 12 = 960,000 美元。
 
