@@ -4,6 +4,8 @@
 
 推荐从 01 顺序阅读至 07，最后完成练习。熟悉广告业务的人也可以直接从 04、05 或 07 进入。
 
+**品牌广告进阶专题**已单独整理：[Brand Advertising Deep Dive（产品矩阵、预算与 Reach & Frequency、Brand Lift、Creative、PRD 和案例）](../brand-advertising/README.md)。基础定义请先看本章，品牌广告业务细节请进入专题。
+
 ## 学习目录
 
 | 顺序 | 知识主题 | 读完应该能回答的问题 | 链接 |
