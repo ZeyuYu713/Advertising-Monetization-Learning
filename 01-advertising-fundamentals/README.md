@@ -18,6 +18,8 @@
 | 06 | 广告产品与创意 | Format、Placement、Creative、Asset 怎么区分？ | [06](06-formats-and-creatives.md) |
 | 07 | 衡量与产品决策 | 如何判断品牌增量、定位收入下降和平台产品痛点？ | [07](07-measurement-and-product-thinking.md) |
 | 实战 | 完整练习 | 如何把概念用于预算规划、指标计算和广告收入诊断？ | [08](08-worked-cases.md) |
+| 09 | 广告对象层级 | Campaign / Ad Group / Ad、Creative、Video、Landing Page、Smart+ 各是什么关系？ | [09](09-ad-object-hierarchy.md) |
+| 10 | 对象粒度与风控样本 | 一段风险 Video 关联多个 Ad 怎么去重？种子样本以什么为单位？ | [10](10-object-granularity-and-risk-sampling.md) |
 
 ## 一张图看懂广告业务
 
