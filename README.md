@@ -40,6 +40,8 @@ Digital Advertising · Brand Advertising · Monetization · AdTech · Product St
 | 06 | 广告样式、Creative 与素材 | [笔记](01-advertising-fundamentals/06-formats-and-creatives.md) |
 | 07 | 品牌效果、实验与产品思维 | [笔记](01-advertising-fundamentals/07-measurement-and-product-thinking.md) |
 | 练习 | 计算题、业务案例与解析 | [练习](01-advertising-fundamentals/08-worked-cases.md) |
+| 09 | 广告对象层级：Account、Campaign、Ad Group、Ad、Creative、Video | [笔记](01-advertising-fundamentals/09-ad-object-hierarchy.md) |
+| 10 | 数据粒度、跨对象关联、SQL 去重与风控种子样本 | [实战](01-advertising-fundamentals/10-object-granularity-and-risk-sampling.md) |
 
 ### 02 · Advertising Economics & Monetization｜广告经济学与变现（建设中）
 
