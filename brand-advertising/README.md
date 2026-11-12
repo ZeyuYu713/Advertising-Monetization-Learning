@@ -20,6 +20,10 @@
 | 08 | [业务题与完整解析](08-interview-cases-and-worked-examples.md) | 客户预算不足、品牌效果不显著、流量下降怎么分析？ |
 | 09 | [速查表、英文术语与官方来源](09-glossary-and-official-sources.md) | 面试前查定义、对口径、看官方资料 |
 
+## 广告对象与创意的关系
+
+在讨论品牌广告 Creative 的效果与素材复用前，推荐先阅读 [广告业务对象层级：Campaign / Ad Group / Ad / Creative / Video](../01-advertising-fundamentals/09-ad-object-hierarchy.md)。常规 Ads Manager 的三层投放结构与升级 Smart+ 的四层报表并不完全相同，跨层级指标统计还需要确认数据粒度。
+
 ## 一条完整业务路径
 
 ~~~mermaid
